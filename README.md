@@ -1,24 +1,11 @@
 ### Hi there 👋
 
-<!--
-**samrobbins85/samrobbins85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm Sam, a Second (going into Third) year Computer Science student at Durham University, UK. 
 
 ### What I'm working on
-I'm currently building a notes website to replace my [LaTeX notes](https://github.com/samrobbins85/university-notes), you can find the repository [here](https://github.com/samrobbins85/notes-site)
+During the week I'm an internship student with [GCA](https://www.globalcyberalliance.org/). I'm working on a range of projects for them, currently building a tool to compare DNS services, you can find the repository [here](https://github.com/samrobbins85/dns-comparison).
+
+In my spare time I'm building a notes website to replace my [LaTeX notes](https://github.com/samrobbins85/university-notes), you can find the repository [here](https://github.com/samrobbins85/notes-site)
 
 ### What I'm currently learning
 In the process of creating this website I am learning [Next.js](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/), along with brushing up my knowledge on [React](https://reactjs.org/)
