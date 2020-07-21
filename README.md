@@ -4,7 +4,9 @@ I'm Sam, a Second (going into Third) year Computer Science student at Durham Uni
 
 ## What I'm working on
 
-### Full Time
+### Full time
+
+During the week I'm an internship student with [GCA](https://www.globalcyberalliance.org/). I'm working on a range of projects for them.
 
 |        Name         |                              Description                              |                Languages/Tools used                 |                                 Repository                                 |
 | :-----------------: | :-------------------------------------------------------------------: | :-------------------------------------------------: | :------------------------------------------------------------------------: |
@@ -13,7 +15,9 @@ I'm Sam, a Second (going into Third) year Computer Science student at Durham Uni
 
 ### Spare Time
 
-In my spare time I'm building a notes website to replace my [LaTeX notes](https://github.com/samrobbins85/university-notes), you can find the repository [here](https://github.com/samrobbins85/notes-site)
+|    Name    |                      Description                      |             Languages/Tools used             |                        Repository                        |
+| :--------: | :---------------------------------------------------: | :------------------------------------------: | :------------------------------------------------------: |
+| Notes Site | A website to organise and display my University Notes | JavaScript, React, Next.js, TailwindCSS, MDX | [notes-site](https://github.com/samrobbins85/notes-site) |
 
 ## How to reach me
 
