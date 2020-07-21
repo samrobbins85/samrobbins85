@@ -10,14 +10,14 @@ During the week I'm an internship student with [GCA](https://www.globalcyberalli
 
 |        Name         |                              Description                              |                Languages/Tools used                 |                                 Repository                                 |
 | :-----------------: | :-------------------------------------------------------------------: | :-------------------------------------------------: | :------------------------------------------------------------------------: |
-|   DNS Comparison    |       A tool to compare the performance of popular DNS services       | JavaScript, React, Next.js, TailwindCSS, Vercel SWR |      [dns-comparison](https://github.com/samrobbins85/dns-comparison)      |
+|   DNS Comparison    |       A tool to compare the performance of popular DNS services       | JavaScript, React, Next.js, Tailwind CSS, Vercel SWR |      [dns-comparison](https://github.com/samrobbins85/dns-comparison)      |
 | Intel vPro detector | A tool to determine if a system has Intel vPro and if it is activated |                         Go                          | [intel-vpro-detector](https://github.com/samrobbins85/intel-vpro-detector) |
 
 ### Spare Time
 
 |    Name    |                      Description                      |             Languages/Tools used             |                        Repository                        |
 | :--------: | :---------------------------------------------------: | :------------------------------------------: | :------------------------------------------------------: |
-| Notes Site | A website to organise and display my University Notes | JavaScript, React, Next.js, TailwindCSS, MDX | [notes-site](https://github.com/samrobbins85/notes-site) |
+| Notes Site | A website to organise and display my University Notes | JavaScript, React, Next.js, Tailwind CSS, MDX | [notes-site](https://github.com/samrobbins85/notes-site) |
 
 ## How to reach me
 
