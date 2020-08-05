@@ -15,10 +15,10 @@ During the week I'm an internship student with [GCA](https://www.globalcyberalli
 
 ### Spare Time
 
-|        Name        |                      Description                      |    Languages/Tools used    |                                Repository                                |
-| :----------------: | :---------------------------------------------------: | :------------------------: | :----------------------------------------------------------------------: |
-|     Notes Site     | A website to organise and display my University Notes | Next.js, Tailwind CSS, MDX |         [notes-site](https://github.com/samrobbins85/notes-site)         |
-| Google AIY Emotion | A script to perform actions based on detected emotion |     Google AIY, Python     | [google-aiy-emotion](https://github.com/samrobbins85/google-aiy-emotion) |
+|    Name    |                       Description                       |      Languages/Tools used      |                        Repository                        |
+| :--------: | :-----------------------------------------------------: | :----------------------------: | :------------------------------------------------------: |
+| Notes Site |  A website to organise and display my University Notes  |   Next.js, Tailwind CSS, MDX   | [notes-site](https://github.com/samrobbins85/notes-site) |
+| Styleguide | A collection of React components for use in my projects | Storybook, React, Tailwind CSS | [styleguide](https://github.com/samrobbins85/styleguide) |
 
 ## How to reach me
 
