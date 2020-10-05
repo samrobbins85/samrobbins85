@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Sam, a Second (going into Third) year Computer Science student at Durham University, UK
+I'm Sam, a Third year Computer Science student at Durham University, UK
 
 ## What I'm working on
 
