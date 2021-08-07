@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Sam, a Third year Computer Science student at Durham University, UK
+I'm Sam, a Software Engineer at CybSafe
 
 ## How to reach me
 
