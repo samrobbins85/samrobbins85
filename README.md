@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Sam, a Senior Software Engineer at UK National Innovation Centre for Ageing
+I'm Sam, a Senior Developer at The Bennett Institute, Oxford University
 
 ## How to reach me
 
